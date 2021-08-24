@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 71 71" width="71" height="71">
+	<defs>
+		<image width="59" height="59" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAA7CAYAAADFJfKzAAACB0lEQVRoQ+2b4TEEQRCF30VABogAEXARkIETgRIBMpABMiACRMBFgAyIgHrsqr7b26qZ6d5ip95U3Q9VO139zbzu6d1pEwAzAEeoezwDOJ0A+Kyb85duamFfAbxVBr4GYKdhWoA9B3BRGewegAfBamfHrWvJmPunBDVuFUMyloxHLmG6LxlHyHgbwGGwGvi2cuewOdjOPpmi2+FfZ+o6gI9Cg4PBDvWquA/gsSZYwhCqHSxwzpo/BJu40/9SxtpZyThRv81jknFEUeE5ehSzilnFbO8KKEEpQeWFh+vOSNlY2ThPbkpQSlB5ilGCSl0vZWNl41St/DynbKxsnKcYZePU9WKXDr8VV/vdmFcat+ZnF6aKj+Tzpi/pGgAvrfrG4LDscOOvdNjrC2uDt3BsvOIuptq3sFyU90KneCm2ssOt0F5nmpUnIUsctbBRfi2080UZPQZAmXrGJoAXj4EVc8NhGZOtbLy+XgI48Rox88Nhp6Yx0usn440xzs7SiBEKu/zmEuFgZOyGwm5lZNucheDubuRM6Hk2DPamab8P8Kljgm39VwGGQ2B51DB7lhwxqQw8wvi65hkhsMt1rcehvrksWO6dht2w/J8CHjVD7mrLyArswAHsho0oIFL99xYaLtjIAiIV2FNofMNSgiUHd2QBkQrrKTR2CcuYy+055JsIY+gvRrG/X7vPPnsZRRZIAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #000000;stroke-dasharray: 2 } 
+	</style>
+	<g id="Layer">
+		<use id="Layer" href="#img1" transform="matrix(1,0,0,1,7,7)"/>
+	</g>
+	<path id="Layer" class="shp0" d="M1.5 1.5L70.5 1.5L70.5 70.5L1.5 70.5L1.5 1.5Z" />
+</svg>

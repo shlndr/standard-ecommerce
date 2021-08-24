@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#abc000"/>
+      <stop offset="1" stop-color="#2d68c4"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_21214" data-name="Group 21214" transform="translate(-288.5 -1394.188)">
+    <g id="noun_way_in_1738852" data-name="noun_way in_1738852" transform="translate(289.5 1395.434)">
+      <path id="Path_7" data-name="Path 7" d="M5,6.295V61.959a1.3,1.3,0,0,0,1.295,1.295H17.945a1.3,1.3,0,0,0,1.131-.665l6.473-11.651c.007-.014.01-.03.017-.044a1.312,1.312,0,0,0,.087-.221c0-.012.01-.023.014-.035l12.068-3.62a1.3,1.3,0,0,0,.922-1.24V21.829h3.884v28.48a1.29,1.29,0,0,0,.036.293c.006.025.016.047.023.071a1.24,1.24,0,0,0,.086.219c.008.015.01.032.018.047l6.473,11.651a1.3,1.3,0,0,0,1.132.665H61.959a1.3,1.3,0,0,0,1.295-1.295V6.295A1.3,1.3,0,0,0,61.959,5H6.295A1.3,1.3,0,0,0,5,6.295ZM37.363,19.24H24.418a1.3,1.3,0,0,0-1.295,1.295v28.48H7.589V7.589H60.665V49.014H45.13V20.534a1.3,1.3,0,0,0-1.295-1.295Z" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Rectangle_64" data-name="Rectangle 64" transform="translate(288.5 1394.188)" fill="none" stroke="#2d68c4" stroke-width="2" stroke-dasharray="2">
+      <rect width="70" height="70" stroke="none"/>
+      <rect x="1" y="1" width="68" height="68" fill="none"/>
+    </g>
+  </g>
+</svg>
